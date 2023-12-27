@@ -1,2 +1,3 @@
 # Sarah-Tees-Sales-Analysis-Region-Dynamics-Strategic-Insights
 Sarah-Tees Sales-Analysis Region Dynamics &amp; Strategic Insights
+Regional customer bases in CA EAST and US East dominate Sarah Tees' presence in Canada and the US, respectively. Sales discrepancies favor the US in 2023, despite a larger Canadian customer base in Canada East. Resellers significantly impact higher sales in US East and US WEST regions, contributing to smaller customer base revenue. Actionable strategies focus on addressing sales drops via surveys, targeting Resellers and Corporate accounts to regain customer interest and boost sales
