@@ -1,0 +1,105 @@
+﻿FirstName,LastName,Email,ACCOUNT_ID,LATEST_TRANSACTION_ID,COUNTRY,REGION,SALES_LEADER,SALES_VICE_PRESIDENT,ACCOUNT_AGE_YEARS,YTD_SALES,PRE_YTD_SALES,CUSTOMER_CATEGORY
+Dominykas,Kline,Dominykas.Kline@fakeemailaddress.com,CID360007AAQ,ID627830CDG,US,US EAST,Nicole Stamp,Hattie Beattie,6,1.85868,1.87726,End Customer
+Myra,Mcintosh,Myra.Mcintosh@fakeemailaddress.com,CID766149AAQ,ID744031CDG,CA,CA EAST,Iram Luna,Adem Osborne,3,1.91772,1.85133,End Customer
+Talhah,Molina,Talhah.Molina@fakeemailaddress.com,CID123310AAQ,ID423991CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,41.98922,52.43973,Corporate 
+Cecily,Irvine,Cecily.Irvine@fakeemailaddress.com,CID401337AAQ,ID133818CDG,CA,CA EAST,Iram Luna,Adem Osborne,9,1.66511,2.08948,End Customer
+Donte,Monroe,Donte.Monroe@fakeemailaddress.com,CID849996AAQ,ID293826CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,2.20341,1.33336,End Customer
+Tiernan,Salt,Tiernan.Salt@fakeemailaddress.com,CID335035AAQ,ID967560CDG,US,US WEST,Taliah Pope,Matas Walmsley,5,40.95618,83.85628,Reseller
+Lance,Jacobs,Lance.Jacobs@fakeemailaddress.com,CID749634AAQ,ID144206CDG,CA,CA WEST,Zaid Nunez,Esa Walton,7,2.04947,0.84330,End Customer
+Dexter,Hubbard,Dexter.Hubbard@fakeemailaddress.com,CID749471AAQ,ID330659CDG,US,US WEST,Atlanta Avila,Matas Walmsley,4,2.70770,0.98516,End Customer
+,Keith,Mehmet.Keith@fakeemailaddress.com,CID470287AAQ,ID150163CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,2,40.44774,21.25576,Corporate 
+Jai,Conrad,Jai.Conrad@fakeemailaddress.com,CID655289AAQ,ID694047CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,151.69305,151.74815,Reseller
+Humairaa,Rangel,Humairaa.Rangel@fakeemailaddress.com,CID693057AAQ,ID127101CDG,CA,CA EAST,Iram Luna,Adem Osborne,6,1.88907,1.60703,End Customer
+Hisham,Ferguson,Hisham.Ferguson@fakeemailaddress.com,CID710001AAQ,ID639088CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,32.59451,-8.61102,Corporate 
+Lacie-Mae,Frame,Lacie-Mae.Frame@fakeemailaddress.com,CID279579AAQ,ID533833CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,2.26071,1.88441,End Customer
+Baxter,Winters,Baxter.Winters@fakeemailaddress.com,CID757903AAQ,ID786495CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,1.77584,2.47676,End Customer
+Marianna,Bryant,Marianna.Bryant@fakeemailaddress.com,CID973153AAQ,ID228065CDG,US,US WEST,Taliah Pope,Matas Walmsley,5,172.84737,227.74387,Reseller
+Darlene,Cain,Darlene.Cain@fakeemailaddress.com,CID819369AAQ,ID407978CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,3,1.98180,1.72082,End Customer
+Mikael,James,Mikael.James@fakeemailaddress.com,CID628179AAQ,ID173315CDG,US,US EAST,Nicole Stamp,Hattie Beattie,10,2.13323,1.20415,End Customer
+Cadence,Hines,Cadence.Hines@fakeemailaddress.com,CID764908AAQ,ID326192CDG,CA,CA WEST,Zaid Nunez,Esa Walton,4,2.15543,1.92324,End Customer
+Ella-Grace,House,Ella-Grace.House@fakeemailaddress.com,ID645881CDG,CID384026AAQ,US,US EAST,Nicole Stamp,Hattie Beattie,6,20.72854,-10.46310,Corporate 
+Hughie,Bernal,Hughie.Bernal@fakeemailaddress.com,CID570945AAQ,ID494353CDG,US,US EAST,Nicole Stamp,Hattie Beattie,2,44.13583,1.01927,Corporate 
+Dionne,Couch,Dionne.Couch@fakeemailaddress.com,CID120047AAQ,ID268409CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,2.52132,0.68247,End Customer
+Manpreet,Woodcock,Manpreet.Woodcock@fakeemailaddress.com,CID856657AAQ,ID603232CDG,US,US EAST,Nicole Stamp,Hattie Beattie,4,1.60126,1.00107,End Customer
+Bogdan,Driscoll,Bogdan.Driscoll@fakeemailaddress.com,CID479531AAQ,ID978864CDG,CA,CA EAST,Iram Luna,Adem Osborne,8,43.18040,-0.87961,Corporate 
+Kajal,Rogers,Kajal.Rogers@fakeemailaddress.com,CID362395AAQ,ID631788CDG,CA,CA WEST,Zaid Nunez,Esa Walton,4,45.06856,36.77707,Corporate 
+Heena,Moore,Heena.Moore@fakeemailaddress.com,CID458862AAQ,ID909227CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,3.00126,1.87894,End Customer
+Daria,Parks,Daria.Parks@fakeemailaddress.com,CID677899AAQ,ID921438CDG,US,US EAST,Nicole Stamp,Hattie Beattie,3,102.36490,179.88331,Reseller
+Johnathon,Kaiser,Johnathon.Kaiser@fakeemailaddress.com,CID383325AAQ,ID500684CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,2.55215,1.14804,End Customer
+Tracey,Keller,Tracey.Keller@fakeemailaddress.com,CID897317AAQ,ID546762CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,158.56185,102.39043,Reseller
+Ember,Traynor,Ember.Traynor@fakeemailaddress.com,CID993627AAQ,ID240862CDG,CA,CA WEST,Zaid Nunez,Esa Walton,6,1.93622,1.57252,End Customer
+Paige,Rayner,Paige.Rayner@fakeemailaddress.com,CID390599AAQ,ID348560CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,2.39893,1.05972,End Customer
+Devante,Carney,Devante.Carney@fakeemailaddress.com,CID331788AAQ,ID126292CDG,US,US WEST,Taliah Pope,Matas Walmsley,9,2.12987,0.40810,End Customer
+Sebastien,Ridley,Sebastien.Ridley@fakeemailaddress.com,CID744545AAQ,ID573350CDG,CA,CA WEST,Zaid Nunez,Esa Walton,3,1.29571,1.94854,End Customer
+Zeynep,Dunne,Zeynep.Dunne@fakeemailaddress.com,CID733263AAQ,ID347556CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,1.75792,1.36285,End Customer
+Burhan,Melia,Burhan.Melia@fakeemailaddress.com,CID629637AAQ,ID221056CDG,CA,CA EAST,Iram Luna,Adem Osborne,6,1.90913,1.92858,End Customer
+Gavin,Dean,Gavin.Dean@fakeemailaddress.com,CID685780AAQ,ID472940CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,1,2.67587,1.28225,End Customer
+Declan,Potter,Declan.Potter@fakeemailaddress.com,CID909482AAQ,ID234818CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,3,2.13926,1.34690,End Customer
+Taliah,Corrigan,Taliah.Corrigan@fakeemailaddress.com,CID520254AAQ,ID752259CDG,CA,CA WEST,Zaid Nunez,Esa Walton,5,2.27600,1.54997,End Customer
+Francesco,Malone,Francesco.Malone@fakeemailaddress.com,CID262320AAQ,ID117469CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,1.27467,0.97165,End Customer
+Brenna,Benjamin,Brenna.Benjamin@fakeemailaddress.com,CID312145AAQ,ID893890CDG,US,US WEST,Taliah Pope,Matas Walmsley,6,45.41947,17.02417,Corporate 
+Leonard,Weir,Leonard.Weir@fakeemailaddress.com,CID382003AAQ,ID564180CDG,US,US EAST,Nicole Stamp,Hattie Beattie,4,28.73279,37.99983,Corporate 
+Poppy-Mae,Macgregor,Poppy-Mae.Macgregor@fakeemailaddress.com,CID373243AAQ,ID649540CDG,US,US EAST,Nicole Stamp,Hattie Beattie,11,2.31665,1.49080,End Customer
+Yassin,Jackson,Yassin .Jackson@fakeemailaddress.com,CID350823AAQ,ID273985CDG,CA,CA WEST,Zaid Nunez,Esa Walton,6,2.48360,1.75333,End Customer
+Kali,Franklin,Kali.Franklin@fakeemailaddress.com,CID644686AAQ,ID514324CDG,US,US WEST,Taliah Pope,Matas Walmsley,5,223.59249,166.56583,Reseller
+Katie,Mcclain,Katie.Mcclain@fakeemailaddress.com,CID986140AAQ,ID943764CDG,CA,CA EAST,Iram Luna,Adem Osborne,4,2.47285,2.25056,End Customer
+Shania,Hodge,Shania.Hodge@fakeemailaddress.com,CID440732AAQ,ID615475CDG,CA,CA EAST,Iram Luna,Adem Osborne,8,2.10908,0.39330,End Customer
+Sacha,Riddle,Sacha.Riddle@fakeemailaddress.com,CID933035AAQ,ID936392CDG,CA,CA EST,Iram Luna,Adem Osborne,2,57.58452,59.65869,Corporate 
+Rayyan,Sutherland,Rayyan.Sutherland@fakeemailaddress.com,CID356356AAQ,ID140981CDG,CA,CA EAST,Iram Luna,Adem Osborne,3,1.78129,1.24990,End Customer
+Amelia-Rose,Shelton,Amelia-Rose.Shelton@fakeemailaddress.com,CID144086AAQ,ID795668CDG,CA,CA EAST,Iram Luna,Adem Osborne,7,47.84119,27.38527,Corporate 
+Rida,Harrell,Rida.Harrell@fakeemailaddress.com,CID679811AAQ,ID433876CDG,US,US EAST,Nicole Stamp,Hattie Beattie,3,1.24358,2.31854,End Customer
+Sapphire,Prentice,Sapphire.Prentice@fakeemailaddress.com,CID840509AAQ,ID489511CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,4,1.90148,1.52244,End Customer
+Macaulay,Adams,Macaulay.Adams@fakeemailaddress.com,CID169739AAQ,ID712228CDG,CA,CA WEST,Zaid Nunez,Esa Walton,3,55.34088,43.28865,Corporate 
+Tracey,Keller,Tracey.Keller@fakeemailaddress.com,CID688124AAQ,ID958186CDG,CA,CA EAST,Iram Luna,Adem Osborne,7,1.28627,1.76601,End Customer
+Shay,Stott,Shay.Stott@fakeemailaddress.com,CID403376AAQ,ID555296CDG,US,US EAST,Nicole Stamp,Hattie Beattie,3,55.07979,37.66350,Corporate 
+Ayyub,Ramsay,Ayyub.Ramsay@fakeemailaddress.com,CID533869AAQ,ID699256CDG,US,US EAST,Nicole Stamp,Hattie Beattie,7,127.63340,42.31807,Reseller
+Emma,Delgado,Emma.Delgado@fakeemailaddress.com,CID202444AAQ,ID251963CDG,CAN,CA WEST,Zaid Nunez,Esa Walton,3,157.00867,66.21719,Reseller
+Danielle,Schmitt,Danielle.Schmitt@fakeemailaddress.com,CID831671AAQ,ID197104CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,2.40270,1.89887,End Customer
+Casey,Marks,Casey.Marks@fakeemailaddress.com,CID278132AAQ,ID621376CDG,CA,CA EAST,Iram Luna,Adem Osborne,7,43.41897,43.60558,Corporate 
+Dominic,Chung,Dominic.Chung@fakeemailaddress.com,CID427690AAQ,ID713118CDG,US,US EAST,Nicole Stamp,Hattie Beattie,4,25.54657,1.23040,Corporate 
+Hughie,Bernal,Hughie.Bernal@fakeemailaddress.com,CID102798AAQ,ID769296CDG,US,US EAST,Nicole Stamp,Hattie Beattie,7,1.96765,1.36627,End Customer
+Nayla,England,Nayla.England@fakeemailaddress.com,CID878180AAQ,ID398393CDG,US,US WEST,Atlanta Avila,Matas Walmsley,5,55.89993,36.64361,Corporate 
+Ebonie,Dowling,Ebonie.Dowling@fakeemailaddress.com,CID283556AAQ,ID445861CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,30.03861,38.84412,Corporate 
+Jillian,Madden,Jillian.Madden@fakeemailaddress.com,CID125265AAQ,ID833798CDG,CA,CA WEST,Esa Walton,Zaid Nunez,5,1.78356,0.88224,End Customer
+Andre,Wyatt,Andre.Wyatt@fakeemailaddress.com,CID433547AAQ,ID870413CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,5,2.05475,1.81680,End Customer
+Talhah,Molina,Talhah.Molina@fakeemailaddress.com,CID689406AAQ,ID307767CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,6,1.64738,0.53892,End Customer
+Finbar,Evans,Finbar.Evans@fakeemailaddress.com,CID288926AAQ,ID907874CDG,US,US EAST,Nicole Stamp,Hattie Beattie,2,1.96958,,End Customer
+Aaran,Melendez,Aaran.Melendez@fakeemailaddress.com,CID219508AAQ,ID998445CDG,CA,CA EAST,Iram Luna,Adem Osborne,4,2.07494,1.15988,End Customer
+Julia,Britton,Julia.Britton@fakeemailaddress.com,CID877443AAQ,ID202065CDG,CA,CA WEST,Zaid Nunez,Esa Walton,4,2.25673,1.54707,End Customer
+Kelise,Grainger,Kelise.Grainger@fakeemailaddress.com,CID641794AAQ,ID704191CDG,US,US EAST,Nicole Stamp,Hattie Beattie,1,1.39293,1.30083,End Customer
+Jeremiah,Talbot,Jeremiah.Talbot@fakeemailaddress.com,CID947999AAQ,ID107709CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,80.38048,13.39465,Corporate 
+Nate,Cameron,Nate.Cameron@fakeemailaddress.com,CID465440AAQ,ID308697CDG,CA,CA EAST,Iram Luna,Adem Osborne,6,2.11521,1.43770,End Customer
+Olli,Carlson,Olli.Carlson@fakeemailaddress.com,CID145583AAQ,ID398833CDG,CA,CA EAST,Iram Luna,Adem Osborne,4,,1.65013,End Customer
+Mae,Ramirez,Mae.Ramirez@fakeemailaddress.com,CID425393AAQ,ID569982CDG,US,US EAST,Nicole Stamp,Hattie Beattie,6,1.54248,1.93098,End Customer
+Mohamad,Cano,Mohamad.Cano@fakeemailaddress.com,CID578731AAQ,ID539905CDG,US,US EAST,Nicole Stamp,Hattie Beattie,4,1.66743,1.68688,End Customer
+Saira,Daniels,Saira.Daniels@fakeemailaddress.com,CID273028AAQ,ID174008CDG,CA,CA EAST,Iram Luna,Adem Osborne,7,2.45140,0.96091,End Customer
+Aniyah,Mcnally,Aniyah.Mcnally@fakeemailaddress.com,CID833251AAQ,ID424673CDG,US,US WEST,Atlanta Avila,Matas Walmsley,8,1.99366,1.07307,End Customer
+Lexi-Mai,Albert,Lexi-Mai.Albert@fakeemailaddress.com,CID862541AAQ,ID737469CDG,CA,CA EAST,Iram Luna,Adem Osborne,4,1.52602,2.33839,End Customer
+Amelia-Rose,Shelton,Amelia-Rose.Shelton@fakeemailaddress.com,CID144086AAQ,ID795668CDG,CA,CA EAST,Iram Luna,Adem Osborne,7,47.84119,27.38527,Corporate 
+Gregg,Keenan,Gregg.Keenan@fakeemailaddress.com,CID696948AAQ,ID391296CDG,CA,CA EAST,Iram Luna,Adem Osborne,2,2.51756,1.55120,End Customer
+Toby,Finnegan,Toby.Finnegan@fakeemailaddress.com,CID707484AAQ,ID391263CDG,US,US EAST,Nicole Stamp,Hattie Beattie,7,157.98118,210.40338,Reseller
+Zi,Gentry,Zi.Gentry@fakeemailaddress.com,CID169516AAQ,ID749396CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,3,1.45599,1.86075,End Customer
+Kalem,Stubbs,Kalem.Stubbs@fakeemailaddress.com,CID194556AAQ,ID283919CDG,US,US WEST,Taliah Pope,Matas Walmsley,5,2.50150,0.88029,End Customer
+Naveed,Smart,Naveed.Smart@fakeemailaddress.com,CID499058AAQ,ID325825CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,5,1.18479,1.94958,End Customer
+Kristi,Donovan,Kristi.Donovan@fakeemailaddress.com,CID430150AAQ,ID689972CDG,US,US EAST,Nicole Stamp,Hattie Beattie,11,2.63508,1.96960,End Customer
+Francesco,Malone,Francesco.Malone@fakeemailaddress.com,CID262320AAQ,ID117469CDG,CA,CA EAST,Iram Luna,Adem Osborne,5,1.27467,0.97165,End Customer
+Nellie,Morris,Nellie.Morris@fakeemailaddress.com,CID769746AAQ,ID889085CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,2.37175,1.51056,End Customer
+Zaid,Kirkland,Zaid.Kirkland@fakeemailaddress.com,CID806325AAQ,ID613666CDG,US,US EAST,Nicole Stamp,Hattie Beattie,2,1.87265,1.11165,End Customer
+Suhayb,Rosales,Suhayb.Rosales@fakeemailaddress.com,CID771665AAQ,ID623715CDG,US,US EAST,Nicole Stamp,Hattie Beattie,3,2.27690,1.25298,End Customer
+Harpreet,Knott,Harpreet.Knott@fakeemailaddress.com,CID174680AAQ,ID297208CDG,US,US WEST,Taliah Pope,Matas Walmsley,2,58.95253,34.26853,Corporate 
+Kairo,Senior,Kairo.Senior@fakeemailaddress.com,CID421705AAQ,ID465276CDG,CA,CA EAST,Iram Luna,Adem Osborne,2,2.73706,1.17737,End Customer
+Tahlia,Hyde,Tahlia.Hyde@fakeemailaddress.com,CID983538AAQ,ID994626CDG,CA,CA WEST,Zaid Nunez,Esa Walton,4,61.24096,129.27834,Reseller
+Mehreen,Lewis,Mehreen.Lewis@fakeemailaddress.com,CID933772AAQ,ID265843CDG,US,US EAST,Nicole Stamp,Hattie Beattie,11,86.20737,63.84580,Corporate 
+Devante,Carney,Devante.Carney@fakeemailaddress.com,CID331788AAQ,ID126292CDG,US,US WEST,Taliah Pope,Matas Walmsley,9,2.12987,0.40810,End Customer
+Franco,Sandoval,Franco.Sandoval@fakeemailaddress.com,CID847477AAQ,ID818730CDG,US,,Nicole Stamp,Hattie Beattie,4,219.33388,106.69252,Reseller
+Hayleigh,Estrada,Hayleigh.Estrada@fakeemailaddress.com,CID145354AAQ,ID746555CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,2.43048,1.08823,End Customer
+Ewen,Bassett,Ewen.Bassett@fakeemailaddress.com,CID810571AAQ,ID460474CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,1.78905,1.45599,End Customer
+Rodney,Davenport,Rodney.Davenport@fakeemailaddress.com,CID388479AAQ,ID726056CDG,US,CA EAST,Shahzaib Mahoney,Adem Osborne,3,2.10056,1.47894,End Customer
+Sydney,Kramer, Sydney.Kramer@fakeemailaddress.com,CID160537AAQ,ID701007CDG,CA,CA WEST,Zaid Nunez,Esa Walton,5,1.10363,1.62970,End Customer
+Hashir,Mercer,Hashir.Mercer@fakeemailaddress.com,CID253540AAQ,ID514015CDG,US,US EAST,Nicole Stamp,Hattie Beattie,4,47.36854,17.56043,Corporate 
+Fleur,Ellis,Fleur.Ellis@fakeemailaddress.com,CID816592AAQ,ID910142CDG,US,US EAST,Nicole Stamp,Hattie Beattie,5,0.92872,1.32992,End Customer
+Tracey,Keller,Tracey.Keller@fakeemailaddress.com,CID897317AAQ,ID546762CDG,US,US WEST,Taliah Pope,Matas Walmsley,8,158.56185,102.39043,Reseller
+Sammy-Jo,Reese,Sammy-Jo.Reese@fakeemailaddress.com,CID993911AAQ,ID828692CDG,CA,,Shahzaib Mahoney,Adem Osborne,5,2.18845,1.07357,End Customer
+Kiaan,Wilde,Kiaan.Wilde@fakeemailaddress.com,CID859909AAQ,ID850690CDG,CA,CA EAST,Iram Luna,Adem Osborne,9,,1.02099,End Customer
+Tahlia,Hyde,Tahlia.Hyde@fakeemailaddress.com,CID438320AAQ,ID912821CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,5,148.28950,104.20998,Reseller
+Dewey,Vargas,Dewey.Vargas@fakeemailaddress.com,CID137942AAQ,ID667230CDG,CA,CA EAST,Shahzaib Mahoney,Adem Osborne,6,1.94849,1.00363,End Customer
